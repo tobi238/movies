@@ -6,9 +6,9 @@ The programm automatically generates and launches an HTML Document displaying a 
 
 ## Included Files
 movies/
-	- entertainment_center.py
-	- fresh_tomatoes.py
-	- media.py
+- entertainment_center.py
+- fresh_tomatoes.py
+- media.py
 	
 ## How to use
 Before running any python programms please check if you have Python installed on you're machine!
